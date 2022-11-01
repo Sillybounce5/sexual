@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sexual/static/css/main.786d3728.css",
-    "main.js": "/sexual/static/js/main.f390c981.js",
+    "main.js": "/sexual/static/js/main.985cba70.js",
     "static/js/787.b3f9d252.chunk.js": "/sexual/static/js/787.b3f9d252.chunk.js",
     "index.html": "/sexual/index.html",
     "main.786d3728.css.map": "/sexual/static/css/main.786d3728.css.map",
-    "main.f390c981.js.map": "/sexual/static/js/main.f390c981.js.map",
+    "main.985cba70.js.map": "/sexual/static/js/main.985cba70.js.map",
     "787.b3f9d252.chunk.js.map": "/sexual/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.786d3728.css",
-    "static/js/main.f390c981.js"
+    "static/js/main.985cba70.js"
   ]
 }
